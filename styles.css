@@ -1,0 +1,38 @@
+button{
+    width: 100%
+    
+}
+
+.btn-primary{
+
+}
+
+
+#personagem{
+    width: 300px;
+}
+body{
+    background-color: #1B1B1E;
+}
+.navbar-nav .dropdown:nth-child(2) {
+    margin-left: 1rem; 
+}
+.navbar-nav .dropdown:nth-child(3) {
+    margin-left: 1rem; 
+}
+.navbar-nav .dropdown:nth-child(4) {
+    margin-left: 1rem; 
+}
+.navbar-nav .dropdown:nth-child(5) {
+    margin-left: 1rem; 
+}
+
+
+body{
+    margin: 0;
+}
+
+
+.figcaption{
+    color: white;
+}
